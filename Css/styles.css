@@ -104,6 +104,10 @@ body{
 }
 
 .presentacion__imagen{
+    width: 30%;
+}
+
+.presentacion__imagen_sobre{
     width: 50%;
 }
 
